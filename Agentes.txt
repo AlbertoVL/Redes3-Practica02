@@ -1,0 +1,2 @@
+comunidadWind4 v1 192.168.1.80
+comunidadASNMP6 v2 localhost
